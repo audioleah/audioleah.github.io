@@ -152,27 +152,27 @@ $(function() {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter1",
-            oga: "audio/Chapter6.ogg"
+            oga: "audio/Chapter1.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter2.mp3",
-            oga: "audio/Chapter6.ogg"
+            oga: "audio/Chapter3.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter3.mp3",
-            oga: "audio/Chapter6.ogg"
+            oga: "audio/Chapter4.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter4.mp3",
-            oga: "audio/Chapter6.ogg"
+            oga: "audio/Chapter4.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter5.mp3",
-            oga: "audio/Chapter6.ogg"
+            oga: "audio/Chapter5.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
@@ -182,17 +182,17 @@ $(function() {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter7.mp3",
-            oga: "audio/Chapter6.ogg"
+            oga: "audio/Chapter7.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter8.mp3",
-            oga: "audio/Chapter6.ogg"
+            oga: "audio/Chapter8.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter9.mp3",
-            oga: "audio/Chapter6.ogg"
+            oga: "audio/Chapter9.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
