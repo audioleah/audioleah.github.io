@@ -149,47 +149,47 @@ $(function() {
             jPlayer: "#jquery_jplayer_1",
             cssSelectorAncestor: "#jp_container_1"
         }, [{
-            title: "Leah",
+            title: "Leah, Chapter 1",
             artist: "Uche Odedo",
             mp3: "audio/Chapter1",
             oga: "audio/Chapter1.ogg"
         }, {
-            title: "Leah",
+            title: "Leah, Chapter 2",
             artist: "Uche Odedo",
             mp3: "audio/Chapter2.mp3",
             oga: "audio/Chapter2.ogg"
         }, {
-            title: "Leah",
+            title: "Leah, Chapter 3",
             artist: "Uche Odedo",
             mp3: "audio/Chapter3.mp3",
             oga: "audio/Chapter3.ogg"
         }, {
-            title: "Leah",
+            title: "Leah, Chapter 4",
             artist: "Uche Odedo",
             mp3: "audio/Chapter4.mp3",
             oga: "audio/Chapter4.ogg"
         }, {
-            title: "Leah",
+            title: "Leah, Chapter 5",
             artist: "Uche Odedo",
             mp3: "audio/Chapter5.mp3",
             oga: "audio/Chapter5.ogg"
         }, {
-            title: "Leah",
+            title: "Leah, Chapter 6",
             artist: "Uche Odedo",
             mp3: "audio/Chapter6.mp3",
             oga: "audio/Chapter6.ogg"
         }, {
-            title: "Leah",
+            title: "Leah, Chapter 7",
             artist: "Uche Odedo",
             mp3: "audio/Chapter7.mp3",
             oga: "audio/Chapter7.ogg"
         }, {
-            title: "Leah",
+            title: "Leah, Chapter 8",
             artist: "Uche Odedo",
             mp3: "audio/Chapter8.mp3",
             oga: "audio/Chapter8.ogg"
         }, {
-            title: "Leah",
+            title: "Leah, Chapter 9",
             artist: "Uche Odedo",
             mp3: "audio/Chapter9.mp3",
             oga: "audio/Chapter9.ogg"
