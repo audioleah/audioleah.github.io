@@ -157,12 +157,12 @@ $(function() {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter2.mp3",
-            oga: "audio/Chapter3.ogg"
+            oga: "audio/Chapter2.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
             mp3: "audio/Chapter3.mp3",
-            oga: "audio/Chapter4.ogg"
+            oga: "audio/Chapter3.ogg"
         }, {
             title: "Leah",
             artist: "Uche Odedo",
