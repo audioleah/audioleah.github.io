@@ -340,7 +340,7 @@ fieldset[disabled] .btn-default:hover {
 .loading-text {
   color: #6F71B9;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: bold;
   left: 0;
   margin: 20px 0 0 0;
@@ -585,7 +585,7 @@ fieldset[disabled] .btn-default:hover {
       border: none; }
 
 .menu-is-scrolling {
-  background: rgba(1, 13, 94, 0.94);
+  background: rgba(94, 1, 82, 0.94);
   padding: 5px 0; }
 
 .navbar-default .navbar-nav {
@@ -918,7 +918,7 @@ header:before {
    4. ABOUT THE BAND
    ========================================================================== */
 .about {
-  background-image: url(../images/background-bg-01.jpg);
+  background-color: #000;
   background-size: cover;
   background-position: center top;
   padding: 260px 0;
@@ -928,7 +928,7 @@ header:before {
 .band-wrap {
   display: inline-block; }
   .band-wrap .section-title {
-    color: #ff0650;
+    color: #a2af2c;
     border-bottom: 10px solid #ffcdcd;
     display: inline-block;
     padding: 45px 0 4px 0;
@@ -1223,7 +1223,7 @@ header:before {
    7. TESTIMONIAL
    ========================================================================== */
 .testimonial {
-  background: url(../images/uche/Bg-Pattern1/Black-bg1.jpg) no-repeat;
+  background:  no-repeat;
   background-size: cover;
   background-attachment: fixed; }
   @media (max-width: 767px) {
